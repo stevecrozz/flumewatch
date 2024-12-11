@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "aedes": "^0.51.3",
+    "mqtt": "^5.10.1",
+    "node-udp-forwarder": "^0.2.0"
+  }
+}
